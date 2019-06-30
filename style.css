@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 
 :root {
   --primary-color: #003699;
@@ -15,7 +15,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   line-height: 1.6;
   background: #fff;
   color: #333;
@@ -94,13 +94,13 @@ body {
   color: var(--lose-color);
 }
 
-@media(max-width: 700px) {
+@media (max-width: 700px) {
   .choice {
     font-size: 110px;
   }
 }
 
-@media(max-width: 500px) {
+@media (max-width: 500px) {
   .choice {
     font-size: 80px;
   }
